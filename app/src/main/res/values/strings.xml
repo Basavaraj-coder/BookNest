@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BookNest</string>
+
+<!--   Hotel name -->
+    <string name="Angraj_Hotel">Hotel Angraj</string>
+    <string name="Tirupati">Hotel Tirupati</string>
+    <string name="Astha_lodge">Lodge Astha</string>
+    <string name="Saurabh_Lodge">Saurabh Lodge</string>
+    <string name="West_lodge">West Lodge</string>
+
+    <string name="Bonda_Bonda_Lodge">Bonda Bonda Lodge</string>
+    <string name="Tree_hut_lodge">TreeHut Lodge</string>
+
+
+<!--    About hotel data-->
+    <string name="About_angraj_hotel">"Our hotel is located in Solapur,Angraj Hotel is one of the best hotel in Solapur, " +
+                        "nearby famous places like park, Siddheshwar temple, Solapur bhuiKot-fort", </string>
+    <string name="About_Tirupati_hotel">"Our hotel is located in Solapur, Tirupati Hotel is one of the best hotel in Solapur, " +
+                        "nearby famous places like park, Siddheshwar temple, Solapur bhuiKot-fort", </string>
+    <string name="About_Astha_hotel">"Our hotel is located in Solapur, Astha hotel is one of the best hotel in Solapur, " +
+                        "nearby famous places like park, Siddheshwar temple, Solapur bhuiKot-fort", </string>
+    <string name="About_Saurabh_hotel">"Our hotel is located in Solapur, Saurabh Hotel is one of the best hotel in Solapur, " +
+                        "nearby famous places like park, Siddheshwar temple, Solapur bhuiKot-fort", </string>
+    <string name="About_West_hotel">"Our hotel is located in Solapur, West hotel is one of the best hotel in Solapur, " +"nearby famous places like park, Siddheshwar temple, Solapur bhuiKot-fort", </string>
+
+
+    <!--    Lodge ratings -->
+    <string name="Angraj_hotel_rating">5</string>
+    <string name="Tirupati_hotel_rating">3</string>
+    <string name="Astha_hotel_rating">4</string>
+    <string name="Saurabh_hotel_rating">3</string>
+    <string name="West_hotel_rating">5</string>
+
+<!--Room name and lodge name-->
+    <string name="Deluxe_AC">Deluxe AC</string>
+    <string name="Doormatory">Doormatory</string>
+    <string name="Normal_2_bed">Normal 2 bed</string>
+    <string name="Deluxe_Room_AC">Deluxe Room AC</string>
+    <string name="Double_Room">Double Room</string>
+    <string name="Executive_Room">Executive Room</string>
+
+
+</resources>
