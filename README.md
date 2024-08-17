@@ -6,4 +6,4 @@ Room Selection & Status Management: Users can select rooms, view statuses, and i
 ViewModel & State Management: Efficient use of ViewModel and coroutines for managing UI state and ensuring smooth navigation.
 Custom Animations & Transitions: Includes smooth transitions and animations for an enhanced user experience.
 
-![Screenone](https://drive.google.com/file/d/1RxjmzqRwf5Sduxzrauzy2GvuVz9n3iFs/view?usp=sharing)
+![screenone](https://github.com/user-attachments/assets/e738efcf-08c1-45cf-a165-7bd27bcfd47e)
