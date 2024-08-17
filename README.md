@@ -6,11 +6,11 @@ Room Selection & Status Management: Users can select rooms, view statuses, and i
 ViewModel & State Management: Efficient use of ViewModel and coroutines for managing UI state and ensuring smooth navigation.
 Custom Animations & Transitions: Includes smooth transitions and animations for an enhanced user experience.
 
-### This is the first screen, user needs to select the particular place/hotel/lodge.
-![screenone](https://github.com/user-attachments/assets/e738efcf-08c1-45cf-a165-7bd27bcfd47e)
+## This is the first screen, user needs to select the particular place/hotel/lodge.
+#![screenone](https://github.com/user-attachments/assets/e738efcf-08c1-45cf-a165-7bd27bcfd47e)
 
-#This is second screen, where user needs to select rooms by clicking on select button.
-![screentwo](https://github.com/user-attachments/assets/c60c59b2-a98b-478c-84e2-bbfa7273588d)
+##This is second screen, where user needs to select rooms by clicking on select button.
+#![screentwo](https://github.com/user-attachments/assets/c60c59b2-a98b-478c-84e2-bbfa7273588d)
 ![screenthree](https://github.com/user-attachments/assets/ebfa2c7a-198f-4b8f-99ba-3b1f4baf1ecc)
 
 #Next after selection of rooms, next the can remove the rooms or proceed further for billing.
